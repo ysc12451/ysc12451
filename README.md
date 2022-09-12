@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ysc12451
-- 👀 I’m interested in Statistics & ML
+- 👀 I’m interested in Statistics
 - 🌱 I’m currently learning Statistics
 - 📫 How to reach me ysc12451@163.com
 
